@@ -2,6 +2,6 @@
 layout: home
 ---
 
-# Jekyll Disqus Forum
+# NLG Summer School Forum
 
-A simple forum managed by Jekyll and powered by Disqus. Find out more on [github](http://www.github.com/klcodanr/Jekyll-Disqus-Forum).
+A forum for the NLG summer school.

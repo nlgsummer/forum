@@ -9,7 +9,4 @@ group-id: openlabs
 
 # Tools
 
-There are many useful tools. The language R and corresponding packages are
-often useful for data manipulation and processing.
-
-For coding, use Eclipse.
+Discuss the tools used during the OpenLabs.

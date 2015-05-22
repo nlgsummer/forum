@@ -19,7 +19,7 @@ url: http://roman-kutlak.github.io/forum
 exclude: [.gitignore]
 
 # The disqus shortname for your forum
-disqus_shortname: romankutlak
+disqus_shortname: nlgsummer
 
 # The public key for your disqus application
 disqus_publickey: Ruki9meM7dF6CtmOmvhXfhdTcPL0JMe6RmYR2DGtiHWJqyo0g9DPivKaK2nZxvLk

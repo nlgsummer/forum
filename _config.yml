@@ -13,7 +13,7 @@ author: Roman Kutlak
 baseurl: /forum
 
 # The URL of your actual domain. This will be used to make absolute links in the RSS feed.
-url: http://roman-kutlak.github.io/forum
+url: http://nlgsummer.github.io/forum
 
 # Exclude system files
 exclude: [.gitignore]
